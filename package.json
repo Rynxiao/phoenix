@@ -1,0 +1,23 @@
+{
+  "name": "phoenix",
+  "version": "1.0.0",
+  "description": "phoenix - every day a test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rynxiao/phoenix.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rynxiao/phoenix/issues"
+  },
+  "homepage": "https://github.com/Rynxiao/phoenix#readme",
+  "devDependencies": {
+    "prettier": "2.2.1"
+  }
+}
