@@ -102,3 +102,10 @@ dist
 
 # TernJS port file
 .tern-port
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
